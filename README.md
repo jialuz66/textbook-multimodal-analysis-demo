@@ -8,7 +8,7 @@ An AI-powered interactive prototype for analyzing text-image relationships in sc
 
 ## 📖 Overview
 
-This prototype demonstrates an automated analysis tool designed to detect and classify multimodal features in K-12 science textbooks. The system analyzes text-image relationships across 37 distinct features, reducing manual coding time from 20+ hours per chapter to under 3 seconds.
+This prototype demonstrates an automated analysis tool designed to detect and classify multimodal features in K-12 science textbooks. 
 
 ### Research Context
 
@@ -83,10 +83,6 @@ The coding framework draws from:
 - **Multimodal Learning Theory** (Mayer, 2009; Schnotz, 2014)
 - **Science Visual Literacy** (Pozzer & Roth, 2003; Lemke, 1998)
 
-### Coding Reliability
-- Inter-rater reliability: κ = 0.82 (substantial agreement)
-- Training dataset: 1,247 manually coded pages
-- Validation corpus: 312 pages from diverse publishers
 
 ## 🔬 Methodology
 
@@ -131,41 +127,6 @@ If you use this tool or framework in your research, please cite:
   note = {Interactive prototype for AI-powered multimodal textbook analysis}
 }
 ```
-
-## 🎯 Project Status
-
-**Current Phase**: Prototype Development (Grant Application Stage)
-
-**Funding Goal**: Develop production-ready AI system with:
-- Automated ML pipeline for feature detection
-- Web-based SaaS platform for researchers and educators
-- API for integration with existing research tools
-- Comprehensive documentation and training materials
-
-**Timeline**: 12-month development cycle (contingent on funding)
-
-## 📞 Contact
-
-**Project Lead**: [Your Name]  
-**Institution**: Stanford Graduate School of Education  
-**Email**: [Your Email]  
-**Grant Program**: Stanford Accelerator for Learning
-
-## 🔗 Related Resources
-
-- [Social Semiotics Research](https://example.com/semiotics)
-- [Multimodal Analysis in Education](https://example.com/multimodal)
-- [Science Textbook Design Guidelines](https://example.com/guidelines)
-
-## 📝 License
-
-This prototype is provided for demonstration and research purposes. The production system will be released under [appropriate open-source license] upon completion.
-
----
-
-## 🙏 Acknowledgments
-
-This project builds upon foundational research in multimodal discourse analysis and benefits from the extensive manually-coded dataset developed over [timeframe]. Special thanks to the Stanford Accelerator for Learning for supporting this innovative research.
 
 ---
 
